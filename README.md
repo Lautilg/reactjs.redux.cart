@@ -21,7 +21,3 @@ npm start
 
 ## TODO
 - add reducers and selectors unit tests
-
-* * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
-licence: MIT
